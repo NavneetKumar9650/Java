@@ -10,7 +10,7 @@ public class PrintIncreasingAftercall {
 
             print(n - 1);
             System.out.println(n);
-      }
+      } 
 
       public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
